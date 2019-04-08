@@ -1,16 +1,8 @@
 # loopback-example
 
-|Branch|Connector|
-|[postgresql](https://github.com/strongloop/loopback-example-database/tree/postgresql)|PostgreSQL|
 
+|[postgresql]
 
-## Prerequisites
-
-Before starting this tutorial, make sure you have the following installed:
-
-- Node
-- NPM
-- [StrongLoop Controller](https://github.com/strongloop/strongloop)
 
 ## Running the example
 
